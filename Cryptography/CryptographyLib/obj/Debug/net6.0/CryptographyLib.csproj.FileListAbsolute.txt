@@ -1,0 +1,24 @@
+D:\University\Cryptography\Programm\Cryptography\CryptographyLib\bin\Debug\net6.0\CryptographyLib.deps.json
+D:\University\Cryptography\Programm\Cryptography\CryptographyLib\bin\Debug\net6.0\CryptographyLib.dll
+D:\University\Cryptography\Programm\Cryptography\CryptographyLib\bin\Debug\net6.0\CryptographyLib.pdb
+D:\University\Cryptography\Programm\Cryptography\CryptographyLib\obj\Debug\net6.0\CryptographyLib.csproj.AssemblyReference.cache
+D:\University\Cryptography\Programm\Cryptography\CryptographyLib\obj\Debug\net6.0\CryptographyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Cryptography\Programm\Cryptography\CryptographyLib\obj\Debug\net6.0\CryptographyLib.AssemblyInfoInputs.cache
+D:\University\Cryptography\Programm\Cryptography\CryptographyLib\obj\Debug\net6.0\CryptographyLib.AssemblyInfo.cs
+D:\University\Cryptography\Programm\Cryptography\CryptographyLib\obj\Debug\net6.0\CryptographyLib.csproj.CoreCompileInputs.cache
+D:\University\Cryptography\Programm\Cryptography\CryptographyLib\obj\Debug\net6.0\CryptographyLib.dll
+D:\University\Cryptography\Programm\Cryptography\CryptographyLib\obj\Debug\net6.0\refint\CryptographyLib.dll
+D:\University\Cryptography\Programm\Cryptography\CryptographyLib\obj\Debug\net6.0\CryptographyLib.pdb
+D:\University\Cryptography\Programm\Cryptography\CryptographyLib\obj\Debug\net6.0\ref\CryptographyLib.dll
+D:\University\Labs\Course 3\Crypta\Cryptography\CryptographyLib\bin\Debug\net6.0\CryptographyLib.deps.json
+D:\University\Labs\Course 3\Crypta\Cryptography\CryptographyLib\bin\Debug\net6.0\CryptographyLib.dll
+D:\University\Labs\Course 3\Crypta\Cryptography\CryptographyLib\bin\Debug\net6.0\CryptographyLib.pdb
+D:\University\Labs\Course 3\Crypta\Cryptography\CryptographyLib\obj\Debug\net6.0\CryptographyLib.csproj.AssemblyReference.cache
+D:\University\Labs\Course 3\Crypta\Cryptography\CryptographyLib\obj\Debug\net6.0\CryptographyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\Labs\Course 3\Crypta\Cryptography\CryptographyLib\obj\Debug\net6.0\CryptographyLib.AssemblyInfoInputs.cache
+D:\University\Labs\Course 3\Crypta\Cryptography\CryptographyLib\obj\Debug\net6.0\CryptographyLib.AssemblyInfo.cs
+D:\University\Labs\Course 3\Crypta\Cryptography\CryptographyLib\obj\Debug\net6.0\CryptographyLib.csproj.CoreCompileInputs.cache
+D:\University\Labs\Course 3\Crypta\Cryptography\CryptographyLib\obj\Debug\net6.0\CryptographyLib.dll
+D:\University\Labs\Course 3\Crypta\Cryptography\CryptographyLib\obj\Debug\net6.0\refint\CryptographyLib.dll
+D:\University\Labs\Course 3\Crypta\Cryptography\CryptographyLib\obj\Debug\net6.0\CryptographyLib.pdb
+D:\University\Labs\Course 3\Crypta\Cryptography\CryptographyLib\obj\Debug\net6.0\ref\CryptographyLib.dll
