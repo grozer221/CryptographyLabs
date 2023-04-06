@@ -10,14 +10,14 @@
         "projectUniqueName": "D:\\University\\Labs\\Course 3\\Crypta\\Cryptography\\CryptographyLib\\CryptographyLib.csproj",
         "projectName": "CryptographyLib",
         "projectPath": "D:\\University\\Labs\\Course 3\\Crypta\\Cryptography\\CryptographyLib\\CryptographyLib.csproj",
-        "packagesPath": "C:\\Users\\ipz20\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Vitalii Vaskivskyi\\.nuget\\packages\\",
         "outputPath": "D:\\University\\Labs\\Course 3\\Crypta\\Cryptography\\CryptographyLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ipz20\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vitalii Vaskivskyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -69,14 +70,14 @@
         "projectUniqueName": "D:\\University\\Labs\\Course 3\\Crypta\\Cryptography\\Cryptography\\Cryptography.csproj",
         "projectName": "Cryptography",
         "projectPath": "D:\\University\\Labs\\Course 3\\Crypta\\Cryptography\\Cryptography\\Cryptography.csproj",
-        "packagesPath": "C:\\Users\\ipz20\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Vitalii Vaskivskyi\\.nuget\\packages\\",
         "outputPath": "D:\\University\\Labs\\Course 3\\Crypta\\Cryptography\\Cryptography\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ipz20\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Vitalii Vaskivskyi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -85,6 +86,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -131,7 +133,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

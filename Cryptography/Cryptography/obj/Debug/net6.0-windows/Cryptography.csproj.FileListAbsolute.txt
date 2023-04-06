@@ -92,3 +92,5 @@ D:\University\Labs\Course 3\Crypta\Cryptography\Cryptography\obj\Debug\net6.0-wi
 D:\University\Labs\Course 3\Crypta\Cryptography\Cryptography\obj\Debug\net6.0-windows\Cryptography.pdb
 D:\University\Labs\Course 3\Crypta\Cryptography\Cryptography\obj\Debug\net6.0-windows\Cryptography.genruntimeconfig.cache
 D:\University\Labs\Course 3\Crypta\Cryptography\Cryptography\obj\Debug\net6.0-windows\ref\Cryptography.dll
+D:\University\Labs\Course 3\Crypta\Cryptography\Cryptography\obj\Debug\net6.0-windows\Pages\Lab3.baml
+D:\University\Labs\Course 3\Crypta\Cryptography\Cryptography\obj\Debug\net6.0-windows\Pages\Lab3.g.cs

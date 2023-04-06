@@ -18,6 +18,9 @@
     <Page Update="Pages\Lab1.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Pages\Lab3.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Themes\Generic.xaml">
       <SubType>Designer</SubType>
     </Page>

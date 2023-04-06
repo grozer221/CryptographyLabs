@@ -23,6 +23,7 @@
         <Frame Margin="0.5 ,3,3,3"  Grid.Column="1" x:Name="MainFrame"  VerticalAlignment="Stretch" VerticalContentAlignment="Center" HorizontalAlignment="Stretch"  HorizontalContentAlignment="Center" Source="Pages/Lab1.xaml" NavigationUIVisibility="Hidden"/>
         <StackPanel Margin="10"  Orientation="Vertical" Name="StackPanelNav">
             <local:NavButton Text="Lab1" NavUri="Pages/Lab1.xaml" Click="NavButton_Click"/>
+            <local:NavButton Text="Lab3" NavUri="Pages/Lab3.xaml" Click="NavButton_Click" />
         </StackPanel>
     </Grid>
 </Window>
